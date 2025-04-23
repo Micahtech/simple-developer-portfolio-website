@@ -10,7 +10,7 @@ const userData = {
     {
       title: "Tailwind Master Kit",
       link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/tmk.PNG",
     },
     {
       title: "PlaceholderTech",
